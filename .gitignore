@@ -1,0 +1,6 @@
+.vscode*
+*.zip
+source_code
+*.exe
+phantom*
+.ipynb*

@@ -1,0 +1,180 @@
+1584066859697	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joaquin\\AppData\\Local\\Temp\\rust_mozprofilekT2bFC"
+1584066904872	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\joaquin\\AppData\\Local\\Temp\\rust_mozprofilepWU3YH"
+1584066905318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584066905318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584066905318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584066907115	Marionette	INFO	Listening on port 49858
+1584066907495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584066909638	Marionette	INFO	Stopped listening on port 49858
+[Parent 16624, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16624, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/[iChild 8096, Cpc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+hrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8096, Chr[Child 14668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14668, Chrome_Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584066979178	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\joaquin\\AppData\\Local\\Temp\\rust_mozprofilewkKCAA"
+*** You are running in headless mode.
+1584066979530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584066979530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584066979530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584066980733	Marionette	INFO	Listening on port 49933
+1584066981193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584066983530	Marionette	INFO	Stopped listening on port 49933
+[Child 16160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1616[Child 16100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16[6C1h6, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 16616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16500, Chr1584153207271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\joaquin\\AppData\\Local\\Temp\\rust_mozprofilefUVOAE"
+*** You are running in headless mode.
+1584153208226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584153208227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584153208228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584153210846	Marionette	INFO	Listening on port 52229
+1584153210892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584127834420%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+mission: mozillaAddons
+1584153248800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584153248800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584153250312	Marionette	INFO	Listening on port 52348
+1584153250536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584127834420%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1584153360976	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\joaquin\\AppData\\Local\\Temp\\rust_mozprofileSPV0ro"
+*** You are running in headless mode.
+1584153361778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584153361778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584153361778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584153362948	Marionette	INFO	Listening on port 52522
+1584153362990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584127834420%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+mission: mozillaAddons
+1584153379585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584153379585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584153381116	Marionette	INFO	Listening on port 52629
+1584153381373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584127834420%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+mission: mozillaAddons
+1584153692403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584153692403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584153693812	Marionette	INFO	Listening on port 52885
+1584153694185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584127834420%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+ension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584153717095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584153719230	Marionette	INFO	Listening on port 52994
+1584153719349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17928, Chro[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1584153741205	Marionette	INFO	Stopped listening on port 52994
+[GPU 176
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584154003515	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\joaquin\\AppData\\Local\\Temp\\rust_mozprofileApStj2"
+*** You are running in headless mode.
+1584154004368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584154004368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584154004368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584154005626	Marionette	INFO	Listening on port 53291
+1584154005640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-481f94fd74.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null

@@ -7,4 +7,4 @@
 3.3. Scrap Easy {furniture} data
 
 ## Next Steps
-1. Refactor code to be more flexible
+1. Arreglar el next_url de la paginacion

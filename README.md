@@ -6,5 +6,8 @@
 3.2. Scrap Homy {furniture} data (CHECK)
 3.3. Scrap Easy {furniture} data
 4. Merge individual scrapers
+5. Diseñar brevement la dash app
+6. Levantar dash app
 
-## Next Steps
+## Otros ToDo
+1. luego de centralizar la informacion desde los scrappers, calcular la similitud de los productos para pillar productos repetidos

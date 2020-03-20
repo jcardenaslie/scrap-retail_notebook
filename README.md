@@ -11,3 +11,7 @@
 
 ## Otros ToDo
 1. luego de centralizar la informacion desde los scrappers, calcular la similitud de los productos para pillar productos repetidos
+
+## Big Picture
+¿Quiero hacer tracking de todos los productos?
+¿Quiero añadir a una lista de items que quiero hacer tracking?

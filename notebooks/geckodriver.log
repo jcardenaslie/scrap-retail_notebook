@@ -178,3 +178,1393 @@ JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, li
 JavaScript warning: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: unreachable code after return statement
 JavaScript error: https://static.ripley.cl/js/catalog-bundle-681e3b1945.js, line 1: TypeError: e is null
 JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3637 > scriptElement, line 1: TypeError: b is null
+1585107885804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilevEGqBJ"
+1585107886318	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585107886833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585107886833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585107886833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585107886834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585107889823	Marionette	INFO	Listening on port 51420
+1585107890128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585107898481	Marionette	INFO	Stopped listening on port 51420
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585107956561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileyxkBBj"
+1585107957053	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585107957594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585107957594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585107957594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585107957595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585107960508	Marionette	INFO	Listening on port 51621
+1585107960897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585116294219	Marionette	INFO	Stopped listening on port 51621
+[Parent 14920, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5D0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+s@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585108001105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585108001106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585108001106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585108005532	Marionette	INFO	Listening on port 51775
+1585108005833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585108017551	Marionette	INFO	Stopped listening on port 51775
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585108767041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileKtHgHY"
+1585108768380	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585108768988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585108768988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585108768989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585108768989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585108772458	Marionette	INFO	Listening on port 52927
+1585108772476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1585116288306	Marionette	INFO	Stopped listening on port 52927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12932, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5D0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+sion 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585109168262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585109168262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585109171188	Marionette	INFO	Listening on port 53587
+1585109171644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile2EFPIH"
+*** You are running in headless mode.
+1585109207175	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585109207886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585109207886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585109207886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585109207886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585109210571	Marionette	INFO	Listening on port 53734
+1585109210853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585109222196	Marionette	INFO	Stopped listening on port 53734
+1585110455396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileXfrESi"
+*** You are running in headless mode.
+1585110455994	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110456593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110456593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110456594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110456594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585110459344	Marionette	INFO	Listening on port 55522
+1585110459730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585110542024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile752RDc"
+*** You are running in headless mode.
+1585110542521	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110543163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110543164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110543164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110543164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585110546274	Marionette	INFO	Listening on port 55738
+1585110546358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585110564597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilemyyWS7"
+*** You are running in headless mode.
+1585110565115	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110565770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110565770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110565771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110565771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585110568922	Marionette	INFO	Listening on port 55867
+1585110569018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+arionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileCx9FXi"
+*** You are running in headless mode.
+1585110599554	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585110600204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585110600204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585110600204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585110600205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585110603631	Marionette	INFO	Listening on port 56004
+1585110603889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111049809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileH6oj2h"
+*** You are running in headless mode.
+1585111050456	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111051161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111051162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111051162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111051162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111055353	Marionette	INFO	Listening on port 56725
+1585111055858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111077555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilewxINPU"
+*** You are running in headless mode.
+1585111078211	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111079208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111079208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111079208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111079208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111084776	Marionette	INFO	Listening on port 56855
+1585111084986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111146193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile3l0uLC"
+*** You are running in headless mode.
+1585111147487	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111148050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111148050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111148050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111148050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111152262	Marionette	INFO	Listening on port 57037
+1585111152723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilexPpFn0"
+*** You are running in headless mode.
+1585111258067	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111258730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111258730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111258731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111258731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111263130	Marionette	INFO	Listening on port 57278
+1585111263495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111292608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilecJFI56"
+*** You are running in headless mode.
+1585111293268	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111293978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111293978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111293978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111293978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111297991	Marionette	INFO	Listening on port 57415
+1585111298175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111311279	Marionette	INFO	Stopped listening on port 57415
+1585111470009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilezyoyz6"
+*** You are running in headless mode.
+1585111471140	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111472443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111472443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111472443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111472444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111477266	Marionette	INFO	Listening on port 57744
+1585111477632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileq8a2PB"
+*** You are running in headless mode.
+1585111491273	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111492065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111492065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111492065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111492065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111496883	Marionette	INFO	Listening on port 57868
+1585111497019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+1585111505413	Marionette	INFO	Stopped listening on port 57868
+1585111557891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileUAHJZU"
+*** You are running in headless mode.
+1585111559539	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111560557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111560557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111560557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111560558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111564521	Marionette	INFO	Listening on port 58050
+1585111565020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111573851	Marionette	INFO	Stopped listening on port 58050
+1585111584676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofiler6AKM9"
+*** You are running in headless mode.
+1585111585267	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111585881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111585882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111585882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111585882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111590079	Marionette	INFO	Listening on port 58190
+1585111590217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111599186	Marionette	INFO	Stopped listening on port 58190
+1585111830550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile5l81dh"
+*** You are running in headless mode.
+1585111831289	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111832087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111832087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111832087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111832087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111836441	Marionette	INFO	Listening on port 58595
+1585111836597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile6NExWK"
+*** You are running in headless mode.
+1585111853193	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111853821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111853822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111853822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111853823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111858657	Marionette	INFO	Listening on port 58718
+1585111858717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585111869252	Marionette	INFO	Stopped listening on port 58718
+1585111918582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilenSAZxK"
+*** You are running in headless mode.
+1585111919849	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111920476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111920476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111920476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111920477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111925086	Marionette	INFO	Listening on port 58897
+1585111925243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilew2rhtn"
+*** You are running in headless mode.
+1585111951092	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585111952956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585111952956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585111952957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585111952957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585111962510	Marionette	INFO	Listening on port 59032
+1585111962628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+1585111976742	Marionette	INFO	Stopped listening on port 59032
+1585112030213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileG62uBF"
+*** You are running in headless mode.
+1585112032714	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112034017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112034017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112034017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112034018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112040756	Marionette	INFO	Listening on port 59228
+1585112040794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112052963	Marionette	INFO	Stopped listening on port 59228
+1585112099937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilerk4uCI"
+*** You are running in headless mode.
+1585112105358	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112106212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112106212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112106212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112106213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112113466	Marionette	INFO	Listening on port 59427
+1585112113527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112140267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofiledOX7S1"
+*** You are running in headless mode.
+1585112142364	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112144314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112144315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112144315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112144315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112150957	Marionette	INFO	Listening on port 59571
+1585112151060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112169600	Marionette	INFO	Stopped listening on port 59571
+1585112241959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilef2aOry"
+*** You are running in headless mode.
+1585112243475	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112244586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112244587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112244587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112244588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112250672	Marionette	INFO	Listening on port 59792
+1585112251111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112262060	Marionette	INFO	Stopped listening on port 59792
+1585112326149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile5mOBgv"
+*** You are running in headless mode.
+1585112326787	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112327649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112327650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112327650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112327650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112332287	Marionette	INFO	Listening on port 59990
+1585112332299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112343037	Marionette	INFO	Stopped listening on port 59990
+1585112445975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileKABZiL"
+*** You are running in headless mode.
+1585112447566	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112448675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112448675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112448676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112448676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112453439	Marionette	INFO	Listening on port 60234
+1585112453493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112492280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileAj5FoF"
+*** You are running in headless mode.
+1585112492936	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112493809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112493809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112493810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112493810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112499684	Marionette	INFO	Listening on port 60390
+1585112499763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112512104	Marionette	INFO	Stopped listening on port 60390
+1585112522320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilei5bSLF"
+*** You are running in headless mode.
+1585112524423	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112525280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112525280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112525280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112525281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112530812	Marionette	INFO	Listening on port 60521
+1585112530933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112543454	Marionette	INFO	Stopped listening on port 60521
+1585112678379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileEuXHpe"
+*** You are running in headless mode.
+1585112679103	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112679764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112679764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112679765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112679765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112684912	Marionette	INFO	Listening on port 60806
+1585112685163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile2xoQ1w"
+*** You are running in headless mode.
+1585112720237	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585112721430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585112721430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585112721430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585112721430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585112729286	Marionette	INFO	Listening on port 60958
+1585112729399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585112744388	Marionette	INFO	Stopped listening on port 60958
+1585113021536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileZh4U7r"
+*** You are running in headless mode.
+1585113022259	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113023488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113023488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113023489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113023489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113028354	Marionette	INFO	Listening on port 61481
+1585113028448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113038551	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+refox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileaVwLnS"
+*** You are running in headless mode.
+1585113073080	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113074376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113074376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113074377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113074379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113079441	Marionette	INFO	Listening on port 61648
+1585113079917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113089591	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1585113122815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilef7M816"
+*** You are running in headless mode.
+1585113124825	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113125864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113125864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113125864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113125864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113132297	Marionette	INFO	Listening on port 61811
+1585113132619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113146798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilew1ovIO"
+*** You are running in headless mode.
+1585113148137	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113149476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113149476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113149476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113149477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113158246	Marionette	INFO	Listening on port 61940
+1585113158421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113177717	Marionette	INFO	Stopped listening on port 61940
+1585113212406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile7zT3t3"
+*** You are running in headless mode.
+1585113216395	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113218523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113218523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113218524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113218524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113226484	Marionette	INFO	Listening on port 62113
+1585113226759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113248425	Marionette	INFO	Stopped listening on port 62113
+1585113390012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilezLBhhd"
+*** You are running in headless mode.
+1585113390855	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113391837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113391837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113391837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113391837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113397914	Marionette	INFO	Listening on port 62432
+1585113398041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113408701	Marionette	INFO	Stopped listening on port 62432
+[Child 20404, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585113432827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileg6KpaF"
+*** You are running in headless mode.
+1585113434053	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113435335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113435335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113435336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113435336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113441020	Marionette	INFO	Listening on port 62579
+1585113441403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+1585113452779	Marionette	INFO	Stopped listening on port 62579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585113499095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileXuv7W2"
+*** You are running in headless mode.
+1585113499867	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113501025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113501026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113501026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113501026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113507072	Marionette	INFO	Listening on port 62764
+1585113507330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+1585113518112	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1585113518262	Marionette	INFO	Stopped listening on port 62764
+1585113620393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilegDhpMT"
+*** You are running in headless mode.
+1585113621419	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585113622238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585113622238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585113622239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585113622239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585113629440	Marionette	INFO	Listening on port 63001
+1585113629467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585113640172	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1585113640206	Marionette	INFO	Stopped listening on port 63001
+1585114421027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileCgZ9Vp"
+*** You are running in headless mode.
+1585114422540	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585114423558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585114423558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585114423558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585114423559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585114430009	Marionette	INFO	Listening on port 64065
+1585114430218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+1585114439034	Marionette	INFO	Stopped listening on port 64065
+1585114542664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile4Aua2q"
+*** You are running in headless mode.
+1585114543640	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585114544443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585114544443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585114544444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585114544444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585114552265	Marionette	INFO	Listening on port 64344
+1585114552444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585114586545	Marionette	INFO	Stopped listening on port 64344
+1585114998627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile3QKcr6"
+*** You are running in headless mode.
+1585114999870	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585115001174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585115001174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585115001174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585115001174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585115007374	Marionette	INFO	Listening on port 65010
+1585115007440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585115020921	Marionette	INFO	Stopped listening on port 65010
+1585115756361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileIgmuZm"
+*** You are running in headless mode.
+1585115757455	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585115758513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585115758514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585115758514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585115758514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585115765696	Marionette	INFO	Listening on port 49702
+1585115765980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585115780871	Marionette	INFO	Stopped listening on port 49702
+1585116082583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilepbyqP2"
+*** You are running in headless mode.
+1585116084106	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585116086351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585116086351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585116086351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585116086351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585116094061	Marionette	INFO	Listening on port 50193
+1585116094188	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile3HJnmy"
+*** You are running in headless mode.
+1585116230301	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585116231369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585116231370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585116231370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585116231370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585116237383	Marionette	INFO	Listening on port 50449
+1585116237876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585116276792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilerElyqI"
+*** You are running in headless mode.
+1585116277948	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585116279624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585116279624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585116279624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585116279625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585116289006	Marionette	INFO	Listening on port 50611
+1585116289514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585116364233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofilengiNkP"
+*** You are running in headless mode.
+1585116365212	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585116366435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585116366435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585116366436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585116366436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585116375796	Marionette	INFO	Listening on port 50835
+1585116375901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofiletNQxnB"
+*** You are running in headless mode.
+1585116433219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585116434309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585116434309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585116434309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585116434310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585116440918	Marionette	INFO	Listening on port 51032
+1585116441092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585116523601	Marionette	INFO	Stopped listening on port 51032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585116746530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileB9ohme"
+*** You are running in headless mode.
+1585116748422	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585116749551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585116749551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585116749551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585116749551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585116756716	Marionette	INFO	Listening on port 51546
+1585116756852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-6ee64200aa.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-baade3b763.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3714 > scriptElement, line 1: TypeError: b is null
+1585116884558	Marionette	INFO	Stopped listening on port 51546
+1585274446659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileum0gJp"
+*** You are running in headless mode.
+1585274451680	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585274452150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585274452150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585274452150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585274452151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585274454413	Marionette	INFO	Listening on port 56508
+1585274454907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585274582515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileJ0X8CG"
+*** You are running in headless mode.
+1585274582981	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585274583455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585274583455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585274583455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585274583455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585274585883	Marionette	INFO	Listening on port 56585
+1585274586335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585274603862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofile6Ci4zQ"
+*** You are running in headless mode.
+1585274604320	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585274604808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585274604808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585274604808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585274604808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585274607405	Marionette	INFO	Listening on port 56642
+1585274607693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=8&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+1585274652959	Marionette	INFO	Stopped listening on port 56642
+1585275606385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileVqtAd8"
+*** You are running in headless mode.
+1585275606870	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585275607355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585275607356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585275607356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585275607356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585275609665	Marionette	INFO	Listening on port 56878
+1585275609712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=8&source=search&term=comoda line 3738 > scriptElement, line 1: TypeError: b is null
+1585275652624	Marionette	INFO	Stopped listening on port 56878
+1585277391071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileoGbouA"
+*** You are running in headless mode.
+1585277391549	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585277392021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585277392021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585277392021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585277392022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585277394275	Marionette	INFO	Listening on port 57248
+1585277394334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=8&source=search&term=comoda line 3745 > scriptElement, line 1: TypeError: b is null
+1585277435602	Marionette	INFO	Stopped listening on port 57248
+1585278139993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofileClxsYZ"
+*** You are running in headless mode.
+1585278140469	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585278140970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585278140970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585278140971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585278140971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585278143413	Marionette	INFO	Listening on port 58048
+1585278143823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=8&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+1585278185846	Marionette	INFO	Stopped listening on port 58048
+1585278593491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jquin\\AppData\\Local\\Temp\\rust_mozprofiley0dArg"
+*** You are running in headless mode.
+1585278593971	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585278594449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585278594449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585278594450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585278594450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585278596724	Marionette	INFO	Listening on port 58587
+1585278596814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?source=search&term=comoda&page=2 line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=3&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/navigation-bundle-3b84d7e9c0.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: unreachable code after return statement
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=4&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=5&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=6&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://static.ripley.cl/js/catalog-bundle-c3a371d619.js, line 1: TypeError: e is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=7&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+JavaScript error: https://simple.ripley.cl/dormitorio/muebles-de-dormitorio/comoda-y-tocadores?page=8&source=search&term=comoda line 3747 > scriptElement, line 1: TypeError: b is null
+1585278645438	Marionette	INFO	Stopped listening on port 58587

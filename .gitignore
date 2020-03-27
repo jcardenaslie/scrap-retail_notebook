@@ -4,3 +4,5 @@ source_code
 *.exe
 phantom*
 .ipynb*
+*.xlsx
+*.log
